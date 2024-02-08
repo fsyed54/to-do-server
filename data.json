@@ -1,0 +1,229 @@
+[
+  {
+    "start_date": "02/02/2024",
+    "end_date": "02/02/2024",
+    "status": "Delete",
+    "task": "Backend Integration",
+    "id": 1
+  },
+  {
+    "start_date": "02/02/2024",
+    "end_date": "02/02/2024",
+    "status": "Delete",
+    "task": "Backend Integration",
+    "id": 2
+  },
+  {
+    "start_date": "02/02/2024",
+    "end_date": "02/02/2024",
+    "status": "Delete",
+    "task": "Feature X Development",
+    "id": 3
+  },
+  {
+    "id": 4,
+    "start_date": "02/02/2024",
+    "end_date": "02/02/2024",
+    "status": "In Hold",
+    "task": "Bug Fixing"
+  },
+  {
+    "id": 6,
+    "start_date": "02/01/2024",
+    "end_date": "02/02/2024",
+    "status": "Completed",
+    "task": "Backend Integration"
+  },
+  {
+    "id": 7,
+    "start_date": "02/01/2024",
+    "end_date": "02/02/2024",
+    "status": "No More Required",
+    "task": "Feature X Development"
+  },
+  {
+    "id": 8,
+    "start_date": "02/01/2024",
+    "end_date": "02/02/2024",
+    "status": "In Hold",
+    "task": "Bug Fixing"
+  },
+  {
+    "start_date": "02/06/2024",
+    "end_date": "02/07/2024",
+    "status": "No More Required",
+    "task": "kkkk",
+    "id": 9
+  },
+  {
+    "start_date": "02/07/2024",
+    "end_date": "",
+    "status": "Delete",
+    "task": "sfsfsdfsdfsdf",
+    "id": 14
+  },
+  {
+    "start_date": "02/07/2024",
+    "end_date": "02/07/2024",
+    "status": "Completed",
+    "task": "task to be done today",
+    "id": 16
+  },
+  {
+    "start_date": "02/07/2024",
+    "end_date": "",
+    "status": "Delete",
+    "task": "new user to-do",
+    "id": 19
+  },
+  {
+    "start_date": "02/07/2024",
+    "end_date": "02/07/2024",
+    "status": "In Progress",
+    "task": "Learn ReactJS along with an example new",
+    "id": 20
+  },
+  {
+    "id": 21,
+    "start_date": "02/07/2024",
+    "end_date": "",
+    "status": "In Progress",
+    "task": "Attend meeting at 3:30 PM EST"
+  },
+  {
+    "id": 22,
+    "start_date": "02/07/2024",
+    "end_date": "",
+    "status": "In Progress",
+    "task": "Send email by End of the Day to Manager"
+  },
+  {
+    "start_date": "02/07/2024",
+    "end_date": "02/07/2024",
+    "status": {
+      "label": "Completed",
+      "value": "Completed"
+    },
+    "task": "new user task done done",
+    "id": 23
+  },
+  {
+    "start_date": "02/07/2024",
+    "end_date": "02/07/2024",
+    "status": "Completed",
+    "task": "today tasks completed new one",
+    "id": 24
+  },
+  {
+    "start_date": "02/07/2024",
+    "end_date": "02/07/2024",
+    "status": "Completed",
+    "task": "one more task",
+    "id": 25
+  },
+  {
+    "start_date": "02/07/2024",
+    "end_date": "02/07/2024",
+    "status": "No More Required",
+    "task": "todo list tasked",
+    "id": 26
+  },
+  {
+    "start_date": "02/07/2024",
+    "end_date": "02/07/2024",
+    "status": "Completed",
+    "task": "latest to do",
+    "id": 27
+  },
+  {
+    "start_date": "02/07/2024",
+    "end_date": "02/08/2024",
+    "status": "Delete",
+    "task": "my tasks for today",
+    "id": 28
+  },
+  {
+    "start_date": "02/07/2024",
+    "end_date": "02/07/2024",
+    "status": "No More Required",
+    "task": "new user",
+    "id": 29
+  },
+  {
+    "start_date": "02/07/2024",
+    "end_date": "02/07/2024",
+    "status": "Delete",
+    "task": "new user",
+    "id": 30
+  },
+  {
+    "start_date": "02/07/2024",
+    "end_date": "02/07/2024",
+    "status": "Delete",
+    "task": "anaother task",
+    "id": 31
+  },
+  {
+    "start_date": "02/07/2024",
+    "end_date": "02/07/2024",
+    "status": "No More Required",
+    "task": "New latest",
+    "id": 32
+  },
+  {
+    "id": 34,
+    "start_date": "02/07/2024",
+    "end_date": "",
+    "status": "In Progress",
+    "task": "anaother task toto"
+  },
+  {
+    "start_date": "02/07/2024",
+    "end_date": "02/08/2024",
+    "status": "No More Required",
+    "task": "user infor",
+    "id": 35
+  },
+  {
+    "id": 36,
+    "start_date": "02/07/2024",
+    "end_date": "",
+    "status": "In Progress",
+    "task": "USER TASK"
+  },
+  {
+    "id": 37,
+    "start_date": "02/08/2024",
+    "end_date": "",
+    "status": "In Progress",
+    "task": "new todo task for today"
+  },
+  {
+    "id": 38,
+    "start_date": "02/08/2024",
+    "end_date": "",
+    "status": "In Progress",
+    "task": "learn java"
+  },
+  {
+    "id": 39,
+    "start_date": "02/08/2024",
+    "end_date": "",
+    "status": "In Progress",
+    "task": "learn angular"
+  },
+  {
+    "id": 40,
+    "start_date": "02/08/2024",
+    "end_date": "",
+    "status": "In Progress",
+    "task": "attend meeting today 5PM"
+  },
+  {
+    "id": 41,
+    "start_date": "02/08/2024",
+    "end_date": "",
+    "status": "In Progress",
+    "task": "New to-do task development"
+  }
+]
